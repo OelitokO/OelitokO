@@ -1,6 +1,6 @@
 ![MasterHead](https://cdn.neowin.com/news/images/uploaded/2021/04/1619644762_github-desktop_story.jpg)
 <h1 align="center">Hi 👋, I'm Ömer Orhan</h1>
-<h3 align="center">A passionate frontend developer from Turkey.</h3>
+<h3 align="center">A passionate Jr. developer from Turkey.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
