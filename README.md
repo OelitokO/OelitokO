@@ -42,6 +42,8 @@
 
 ###
 
+<br clear="both">
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" height="25" alt="csharp logo"  />
   <img width="100" />
@@ -54,8 +56,6 @@
   <img src="https://skillicons.dev/icons?i=c" height="25" alt="c logo"  />
   <img width="100" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="25" alt="vscode logo"  />
-  <img width="100" />
-  <img src="https://skillicons.dev/icons?i=github" height="25" alt="github logo"  />
   <img width="100" />
   <img src="https://skillicons.dev/icons?i=py" height="25" alt="python logo"  />
 </div>
