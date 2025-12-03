@@ -27,15 +27,13 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OelitokO&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nord&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=OelitokO&locale=en&mode=daily&theme=nord&hide_border=false&border_radius=0&order=3" height="200" alt="streak graph" /> <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=OelitokO&radius=50&theme=react&area=true&order=5&hide_border=false" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OelitokO/OelitokO/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OelitokO/OelitokO/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OelitokO/OelitokO/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/OelitokO/OelitokO/output/pacman-contribution-graph.svg">
 </picture>
