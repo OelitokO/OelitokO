@@ -2,10 +2,8 @@ name: Generate pacman animation
 
 on:
   schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
-
+    - cron: "0 */12 * * *"
   workflow_dispatch:
-
   push:
     branches:
     - main
@@ -16,14 +14,21 @@ jobs:
       contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 5
-
+    
     steps:
+      # 1. Adım: Resmi oluştur
       - name: generate pacman-contribution-graph.svg
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
 
+      # 2. Adım: (YENİ) Klasör oluştur ve resmi içine taşı
+      - name: Move file to dist directory
+        run: |
+          mkdir -p dist
+          mv pacman-contribution-graph.svg dist/
 
+      # 3. Adım: dist klasörünü output dalına yükle
       - name: push pacman-contribution-graph.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
