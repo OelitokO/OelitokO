@@ -5,7 +5,7 @@
 </a>
 
 <div align="center">
-  <a href="https://www.instagram.com/oelitoko" target="_blank">
+  <a href="https://www.instagram.com/omelitoko" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram" />
   </a>
   <a href="mailto:omerelitok.05@gmail.com" target="_blank">
